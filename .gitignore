@@ -1,0 +1,10 @@
+## .NET Core / C# gitignore
+bin/
+obj/
+*.user
+*.userosscache
+*.sln.docstates
+.vscode/
+.idea/
+*.swp
+*~
